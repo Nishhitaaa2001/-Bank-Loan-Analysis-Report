@@ -1,4 +1,4 @@
-# Bank Loan Analysis README generator
+
 # Bank Loan Analysis Report
 
 ## Overview
